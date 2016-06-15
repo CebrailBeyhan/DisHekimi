@@ -1,0 +1,97 @@
+C:\Users\net1\Desktop\NET1\SUBAT\2016.02.05\DisHekimi\DisHekimi\bin\Debug\DisHekimi.exe.config
+C:\Users\net1\Desktop\NET1\SUBAT\2016.02.05\DisHekimi\DisHekimi\bin\Debug\DisHekimi.exe
+C:\Users\net1\Desktop\NET1\SUBAT\2016.02.05\DisHekimi\DisHekimi\bin\Debug\DisHekimi.pdb
+C:\Users\net1\Desktop\NET1\SUBAT\2016.02.05\DisHekimi\DisHekimi\obj\Debug\DisHekimi.csprojResolveAssemblyReference.cache
+C:\Users\net1\Desktop\NET1\SUBAT\2016.02.05\DisHekimi\DisHekimi\obj\Debug\DisHekimi.Form1.resources
+C:\Users\net1\Desktop\NET1\SUBAT\2016.02.05\DisHekimi\DisHekimi\obj\Debug\DisHekimi.Properties.Resources.resources
+C:\Users\net1\Desktop\NET1\SUBAT\2016.02.05\DisHekimi\DisHekimi\obj\Debug\DisHekimi.csproj.GenerateResource.Cache
+C:\Users\net1\Desktop\NET1\SUBAT\2016.02.05\DisHekimi\DisHekimi\obj\Debug\DisHekimi.exe
+C:\Users\net1\Desktop\NET1\SUBAT\2016.02.05\DisHekimi\DisHekimi\obj\Debug\DisHekimi.pdb
+C:\Users\net1\Desktop\NET1\SUBAT\2016.02.05\DisHekimi\DisHekimi\obj\Debug\DisHekimi.Mail.resources
+F:\DisHekimi\DisHekimi\bin\Debug\DisHekimi.exe.config
+F:\DisHekimi\DisHekimi\obj\Debug\DisHekimi.exe
+F:\DisHekimi\DisHekimi\obj\Debug\DisHekimi.pdb
+F:\DisHekimi\DisHekimi\bin\Debug\DisHekimi.exe
+F:\DisHekimi\DisHekimi\bin\Debug\DisHekimi.pdb
+F:\DisHekimi\DisHekimi\obj\Debug\DisHekimi.csprojResolveAssemblyReference.cache
+F:\DisHekimi\DisHekimi\obj\Debug\DisHekimi.Form1.resources
+F:\DisHekimi\DisHekimi\obj\Debug\DisHekimi.Mail.resources
+F:\DisHekimi\DisHekimi\obj\Debug\DisHekimi.Properties.Resources.resources
+F:\DisHekimi\DisHekimi\obj\Debug\DisHekimi.csproj.GenerateResource.Cache
+D:\Visual Studio Eğitim\Projelerim\DisHekimi\DisHekimi\bin\Debug\DisHekimi.exe.config
+D:\Visual Studio Eğitim\Projelerim\DisHekimi\DisHekimi\obj\Debug\DisHekimi.exe
+D:\Visual Studio Eğitim\Projelerim\DisHekimi\DisHekimi\obj\Debug\DisHekimi.pdb
+D:\Visual Studio Eğitim\Projelerim\DisHekimi\DisHekimi\bin\Debug\DisHekimi.exe
+D:\Visual Studio Eğitim\Projelerim\DisHekimi\DisHekimi\bin\Debug\DisHekimi.pdb
+D:\Visual Studio Eğitim\Projelerim\DisHekimi\DisHekimi\obj\Debug\DisHekimi.csprojResolveAssemblyReference.cache
+D:\Visual Studio Eğitim\Projelerim\DisHekimi\DisHekimi\obj\Debug\DisHekimi.Form1.resources
+D:\Visual Studio Eğitim\Projelerim\DisHekimi\DisHekimi\obj\Debug\DisHekimi.Mail.resources
+D:\Visual Studio Eğitim\Projelerim\DisHekimi\DisHekimi\obj\Debug\DisHekimi.Properties.Resources.resources
+D:\Visual Studio Eğitim\Projelerim\DisHekimi\DisHekimi\obj\Debug\DisHekimi.csproj.GenerateResource.Cache
+D:\DisHekimi\DisHekimi\bin\Debug\DisHekimi.exe.config
+D:\DisHekimi\DisHekimi\obj\Debug\DisHekimi.exe
+D:\DisHekimi\DisHekimi\obj\Debug\DisHekimi.pdb
+D:\DisHekimi\DisHekimi\obj\Debug\DisHekimi.csprojResolveAssemblyReference.cache
+D:\DisHekimi\DisHekimi\obj\Debug\DisHekimi.Form1.resources
+D:\DisHekimi\DisHekimi\obj\Debug\DisHekimi.Mail.resources
+D:\DisHekimi\DisHekimi\obj\Debug\DisHekimi.Properties.Resources.resources
+D:\DisHekimi\DisHekimi\obj\Debug\DisHekimi.csproj.GenerateResource.Cache
+D:\DisHekimi\DisHekimi\bin\Debug\DisHekimi.exe
+D:\DisHekimi\DisHekimi\bin\Debug\DisHekimi.pdb
+C:\Users\net1\Desktop\NET1\DisHekimi\bin\Debug\DisHekimi.exe.config
+C:\Users\net1\Desktop\NET1\DisHekimi\obj\Debug\DisHekimi.exe
+C:\Users\net1\Desktop\NET1\DisHekimi\obj\Debug\DisHekimi.pdb
+C:\Users\net1\Desktop\NET1\DisHekimi\bin\Debug\DisHekimi.exe
+C:\Users\net1\Desktop\NET1\DisHekimi\bin\Debug\DisHekimi.pdb
+C:\Users\net1\Desktop\NET1\DisHekimi\obj\Debug\DisHekimi.csprojResolveAssemblyReference.cache
+C:\Users\net1\Desktop\NET1\DisHekimi\obj\Debug\DisHekimi.Form1.resources
+C:\Users\net1\Desktop\NET1\DisHekimi\obj\Debug\DisHekimi.Mail.resources
+C:\Users\net1\Desktop\NET1\DisHekimi\obj\Debug\DisHekimi.Properties.Resources.resources
+C:\Users\net1\Desktop\NET1\DisHekimi\obj\Debug\DisHekimi.csproj.GenerateResource.Cache
+D:\Visual Studio Eğitim\Projelerim\DisHekimi\DisHekimi\obj\Debug\DisHekimi.Doktorlar.resources
+D:\Visual Studio Eğitim\Projelerim\DisHekimi\DisHekimi\obj\Debug\DisHekimi.HastaKayıt.resources
+D:\Visual Studio Eğitim\Projelerim\DisHekimi\DisHekimi\obj\Debug\DisHekimi.Randevu.resources
+D:\Visual Studio Eğitim\Projelerim\DisHekimi\DisHekimi\obj\Debug\DisHekimi.Ödeme.resources
+C:\Users\net1\Desktop\NET1\DisHekimi\obj\Debug\DisHekimi.Doktorlar.resources
+C:\Users\net1\Desktop\NET1\DisHekimi\obj\Debug\DisHekimi.Randevu.resources
+C:\Users\net1\Desktop\NET1\DisHekimi\obj\Debug\DisHekimi.Ödeme.resources
+C:\Users\net1\Desktop\NET1\DisHekimi\obj\Debug\DisHekimi.Ana.resources
+C:\Users\net1\Desktop\NET1\DisHekimi\obj\Debug\DisHekimi.HastaKayit.resources
+C:\Users\RJ-45\Downloads\DisHekimi\DisHekimi\DisHekimi\bin\Debug\DisHekimi.exe.config
+C:\Users\RJ-45\Downloads\DisHekimi\DisHekimi\DisHekimi\obj\Debug\DisHekimi.exe
+C:\Users\RJ-45\Downloads\DisHekimi\DisHekimi\DisHekimi\obj\Debug\DisHekimi.pdb
+C:\Users\RJ-45\Downloads\DisHekimi\DisHekimi\DisHekimi\bin\Debug\DisHekimi.exe
+C:\Users\RJ-45\Downloads\DisHekimi\DisHekimi\DisHekimi\bin\Debug\DisHekimi.pdb
+C:\Users\RJ-45\Downloads\DisHekimi\DisHekimi\DisHekimi\obj\Debug\DisHekimi.csprojResolveAssemblyReference.cache
+C:\Users\RJ-45\Downloads\DisHekimi\DisHekimi\DisHekimi\obj\Debug\DisHekimi.Doktorlar.resources
+C:\Users\RJ-45\Downloads\DisHekimi\DisHekimi\DisHekimi\obj\Debug\DisHekimi.Form1.resources
+C:\Users\RJ-45\Downloads\DisHekimi\DisHekimi\DisHekimi\obj\Debug\DisHekimi.Ana.resources
+C:\Users\RJ-45\Downloads\DisHekimi\DisHekimi\DisHekimi\obj\Debug\DisHekimi.HastaKayit.resources
+C:\Users\RJ-45\Downloads\DisHekimi\DisHekimi\DisHekimi\obj\Debug\DisHekimi.Mail.resources
+C:\Users\RJ-45\Downloads\DisHekimi\DisHekimi\DisHekimi\obj\Debug\DisHekimi.Properties.Resources.resources
+C:\Users\RJ-45\Downloads\DisHekimi\DisHekimi\DisHekimi\obj\Debug\DisHekimi.Randevu.resources
+C:\Users\RJ-45\Downloads\DisHekimi\DisHekimi\DisHekimi\obj\Debug\DisHekimi.Ödeme.resources
+C:\Users\RJ-45\Downloads\DisHekimi\DisHekimi\DisHekimi\obj\Debug\DisHekimi.csproj.GenerateResource.Cache
+C:\Users\RJ-45\Documents\Visual Studio 2012\Projects\DisHekimi\DisHekimi\bin\Debug\DisHekimi.exe.config
+C:\Users\RJ-45\Documents\Visual Studio 2012\Projects\DisHekimi\DisHekimi\obj\Debug\DisHekimi.exe
+C:\Users\RJ-45\Documents\Visual Studio 2012\Projects\DisHekimi\DisHekimi\obj\Debug\DisHekimi.pdb
+C:\Users\RJ-45\Documents\Visual Studio 2012\Projects\DisHekimi\DisHekimi\bin\Debug\DisHekimi.exe
+C:\Users\RJ-45\Documents\Visual Studio 2012\Projects\DisHekimi\DisHekimi\bin\Debug\DisHekimi.pdb
+C:\Users\RJ-45\Documents\Visual Studio 2012\Projects\DisHekimi\DisHekimi\obj\Debug\DisHekimi.csprojResolveAssemblyReference.cache
+C:\Users\RJ-45\Documents\Visual Studio 2012\Projects\DisHekimi\DisHekimi\obj\Debug\DisHekimi.Form1.resources
+C:\Users\RJ-45\Documents\Visual Studio 2012\Projects\DisHekimi\DisHekimi\obj\Debug\DisHekimi.Ana.resources
+C:\Users\RJ-45\Documents\Visual Studio 2012\Projects\DisHekimi\DisHekimi\obj\Debug\DisHekimi.Mail.resources
+C:\Users\RJ-45\Documents\Visual Studio 2012\Projects\DisHekimi\DisHekimi\obj\Debug\DisHekimi.Properties.Resources.resources
+C:\Users\RJ-45\Documents\Visual Studio 2012\Projects\DisHekimi\DisHekimi\obj\Debug\DisHekimi.csproj.GenerateResource.Cache
+C:\Users\RJ-45\Documents\Visual Studio 2012\Projects\DisHekimi\DisHekimi\obj\Debug\DisHekimi.DoktorForm.resources
+C:\Users\RJ-45\Documents\Visual Studio 2012\Projects\DisHekimi\DisHekimi\obj\Debug\DisHekimi.HastaKayitForm.resources
+C:\Users\RJ-45\Documents\Visual Studio 2012\Projects\DisHekimi\DisHekimi\obj\Debug\DisHekimi.HastalikForm.resources
+C:\Users\RJ-45\Documents\Visual Studio 2012\Projects\DisHekimi\DisHekimi\obj\Debug\DisHekimi.RandevuForm.resources
+C:\Users\RJ-45\Documents\Visual Studio 2012\Projects\DisHekimi\DisHekimi\obj\Debug\DisHekimi.OdemeForm.resources
+C:\Users\RJ-45\Documents\Visual Studio 2012\Projects\DisHekimi\DisHekimi\obj\Debug\DisHekimi.Acilis.resources
+C:\Users\RJ-45\Documents\Visual Studio 2012\Projects\DisHekimi\DisHekimi\bin\Debug\aa\DisHekimi.resources.dll
+C:\Users\RJ-45\Documents\Visual Studio 2012\Projects\DisHekimi\DisHekimi\obj\Debug\DisHekimi.Ana.aa.resources
+C:\Users\RJ-45\Documents\Visual Studio 2012\Projects\DisHekimi\DisHekimi\obj\Debug\aa\DisHekimi.resources.dll
+C:\Users\RJ-45\Documents\Visual Studio 2012\Projects\DisHekimi\DisHekimi\obj\Debug\DisHekimi.CalisanForm.resources
+C:\Users\RJ-45\Documents\Visual Studio 2012\Projects\DisHekimi\DisHekimi\obj\Debug\DisHekimi.HastaBilgileriForm.resources
+C:\Users\RJ-45\Documents\Visual Studio 2012\Projects\DisHekimi\DisHekimi\obj\Debug\DisHekimi.KasaForm.resources
